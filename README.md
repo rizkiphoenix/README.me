@@ -1,4 +1,4 @@
-# README.me
+# README.md
 My GitHub Journey Begins
 
 Hey there! 👋
